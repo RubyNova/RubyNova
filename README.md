@@ -1,6 +1,6 @@
 ### Why hello there wonderful reader!
 
-My name is Matt, or as most people know me on the internet, RubyNova. I am a massive advocate for .NET, C#, and C++ as my friends would probably attest to by the fact I talk about it almost all the time. As such, its probably no surprise that I happen to own the C# Discord that is linked to by the .NET Foundation itself.
+My name is Matt, or as most people know me on the internet, RubyNova. I am Microsoft MVP for Developer Technologies and a massive advocate for .NET, C#, and C++ as my friends would probably attest to by the fact I talk about it almost all the time. As such, its probably no surprise that I happen to own the C# Discord that is linked to by the .NET Foundation itself.
 
 I also absolutely love games development, graphics/rendering programming especially. So much so that I got the insane idea to write my own game engine with a few friends. It's easily the project I am most passionate about, and have sunk the most time into. The game engine, NovelRT, is probably my most creative outlet, and I am hoping long-term it will become really viable as FOSS.
 
